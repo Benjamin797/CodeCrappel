@@ -3,6 +3,7 @@
 #include <string.h> // Penser à inclure string.h pour strchr()
 #include "revision.h"
 
+//deuxième version
 #define TEST 6
 
 #if TEST ==1
